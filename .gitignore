@@ -1,0 +1,19 @@
+# macOS / editor metadata
+.DS_Store
+._*
+*.swp
+*.swo
+
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Generated model / render outputs
+iphone_stand_output/
+tactical_iphone_dock_output/
